@@ -23,10 +23,7 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: '#D8B1A5',
   },
-  text2: {
-    fontSize: 30,
-    color: '#fff',
-  },
+
   text3: {
     fontSize: 30,
     color: '#D8B1A5'
